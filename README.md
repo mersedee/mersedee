@@ -1,11 +1,11 @@
-###Hi there, I'm Mersede 👋
+### Hi there, I'm Mersede 👋
 
 - 👩‍💻 I work as a web frontend developer.
 - 🌱 My goal is to deepen my knowledge and skills.
 - 👯 I'm looking forward to collaborating on projects I find interesting.
 - ⚡ Fun fact: Whenever I have the chance, I bake cakes.
 
-###Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
