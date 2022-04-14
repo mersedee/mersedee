@@ -2,8 +2,6 @@
 
 - 👩‍💻 I work as a web frontend developer.
 - 🌱 My goal is to deepen my knowledge and skills.
-- 👯 I'm looking forward to collaborating on projects I find interesting.
-- ⚡ Fun fact: Whenever I have the chance, I bake cakes.
 
 ### Languages and Tools:
 
