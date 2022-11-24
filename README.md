@@ -1,7 +1,5 @@
-### Hi there, I'm Mersede 👋
 
-
-### Connect with me:
+### Hi, I'm Mersede. Here's the contact information::
 
 <p align="left">
     <a href="mailto:mersede.rahbar@gmail.com" target="_blank">
